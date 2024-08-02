@@ -1,4 +1,4 @@
-with open('C:\\Users\\admin\\Desktop\\ADVENT OF CODE\\2015\\DAY 5\\puzzle_input.txt', 'r') as f:
+with open('C:/Users/admin/Desktop/ADVENT OF CODE/2015/DAY 5/puzzle_input.txt', 'r') as f:
     strings = f.read()
 
 strings_list = strings.split('\n')
