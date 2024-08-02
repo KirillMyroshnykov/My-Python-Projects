@@ -1,4 +1,4 @@
-# Rock, Paper< Scissors, Lizard, Spock Game
+# Rock, Paper, Scissors, Lizard, Spock Game
 
 import random
 choices = ['rock', 'paper', 'scissors', 'lizard', 'spock']
